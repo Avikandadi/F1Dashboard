@@ -260,24 +260,7 @@ npm run build
 - Use appropriate cache TTL values for different data types
 - Monitor API response times in browser dev tools
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
-## 📝 License
 
-This project is for educational and demonstration purposes.
 
-## 🙏 Acknowledgments
-
-- **FastF1** - For providing excellent F1 data access
-- **Formula 1** - For the amazing sport and data
-- **React & FastAPI** communities for great tools and documentation
-
----
-
-**Built with ❤️ for Formula 1 fans and data enthusiasts**
